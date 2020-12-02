@@ -10,7 +10,7 @@ Reach out on [LinkedIn](https://www.linkedin.com/in/elliottwking/) or [just emai
 - [Blog](https://elliott-king.github.io/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/elliott-king/elliott-king.github.io)
 - [Resume Compare](https://elliott-king.github.io/resume-compare/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/elliott-king/resume-compare) - See what keywords are present in both a job description and your resume.
 - [Creepy Tracker](https://creepy-tracker.herokuapp.com/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/elliott-king/creepy-tracker) - In which I uniquely identify you based on your browser environment.
-- [NYS Bill Tracker](https://astoria-tech-bill-tracker-master.dev.shipyard.host/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/astoria-tech/bill-tracker) - See status of bills in the New York State Senate.
+- [NYS Bill Tracker](https://bills.astoria.digital/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/astoria-tech/bill-tracker) - See status of bills in the New York State Senate.
 
 *Some older stuff*:
 - [Adversity Job Board](https://adversity.herokuapp.com/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/elliott-king/adversity-board-frontend) - For when you want your applicants to *really* work for it.
