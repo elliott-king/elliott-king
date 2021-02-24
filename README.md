@@ -2,9 +2,7 @@
 
 I am a full-stack developer based in the US. I especially like the intersection of data and full-stack, and many of my projects reflect that. Data Science tickles the empirical part of my brain, but making projects that grow, walk, and run is my true passion.
 
-I am currently volunteering with the [Astoria Digital](https://astoria.digital/) NYC-based aid organization. They provide web development and technical support for local volunteer organizations. 
-
-Reach out on [LinkedIn](https://www.linkedin.com/in/elliottwking/) or [just email me](mailto:elliottking93@gmail.com) if you are hiring for NYC or remote! I mostly work with Rails, Python, and JS, but I have dabbled in many technologies.
+I am currently volunteering with the [Astoria Digital](https://astoria.digital/) NYC-based aid organization. They provide web development and technical support for local volunteer organizations.
 
 *Some ongoing stuff*:
 - [Blog](https://elliott-king.github.io/) - [<img src="GitHub-Mark-32px.png" height="16">](https://github.com/elliott-king/elliott-king.github.io)
